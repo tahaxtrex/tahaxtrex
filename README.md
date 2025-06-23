@@ -52,8 +52,7 @@ I believe in **learning by building**, and I use every opportunity — projects,
 
 ### 💡 Fun Facts
 
-- 🧑‍🏫 TA for C, C++, and Advanced Calculus
-- 📚 Self-taught Kotlin developer
+- 📚 Self-taught Web developer
 - 🛠️ Loves building tools that automate boring stuff
 - 🕌 Believer in technology for community impact
 
