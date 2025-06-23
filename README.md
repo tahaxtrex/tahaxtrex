@@ -4,13 +4,13 @@
 
 ---
 
-🎓 I'm a Computer Science student at Constructor University, currently expanding my skills in full-stack development, backend architecture, and real-world AI applications. I’m passionate about solving problems with code — whether it's building a platform for my Muslim Student Association (MSA), automating tasks with Python, or exploring concurrency with Kotlin.
+🎓 I'm a Computer Science student at Constructor University, currently expanding my skills in full-stack development, backend architecture, and real-world AI applications. I’m passionate about solving problems with code.
 
-I believe in **learning by building**, and I use every opportunity — projects, courses, or TA experience — to sharpen both my technical and collaborative skills.
+I believe in **learning by building**, and I use every opportunity — projects, courses, or Internship experience — to sharpen both my technical and collaborative skills.
 
 ---
 
-📫 **Reach me at:** taha.hbirri@yourdomain.com  
+📫 **Reach me at:** hbirritaha@gmail.com  
 🌍 **Based in:** Bremen, Germany  
 🔗 **Connect with me:**
 
@@ -29,7 +29,9 @@ I believe in **learning by building**, and I use every opportunity — projects,
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
@@ -37,12 +39,6 @@ I believe in **learning by building**, and I use every opportunity — projects,
 
 - 🔧 **[MSA Web Platform](#)**  
   A Next.js + Firebase platform for my student association with events, prayer times, volunteer system, and admin dashboard.
-
-- 🕹️ **[WikiRacer Parallel Search](#)**  
-  A Kotlin-based concurrency project using threads, BFS, and atomic operations.
-
-- 🧠 **[AI-Based Object Localization](#)**  
-  A Django + Gemini project detecting and labeling elements in images with interactive UI.
 
 ---
 
