@@ -38,7 +38,7 @@ I believe in **learning by building**, and I use every opportunity — projects,
 ### 🚀 Current Projects
 
 - 🔧 **[MSA Web Platform](#)**  
-  A Next.js + Firebase platform for my student association with events, prayer times, volunteer system, and admin dashboard.
+  A Next.js + Firebase platform for my student association with events, forum, volunteer system, and admin dashboard.
 
 ---
 
