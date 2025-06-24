@@ -44,9 +44,10 @@ I believe in **learning by building**, and I use every opportunity — projects,
 
 ### 📊 GitHub Stats
 
-![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaxtrex&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahaxtrex&show_icons=true&theme=tokyonight&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaxtrex&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaxtrex&layout=compact&theme=tokyonight)
+
 
 
 ---
