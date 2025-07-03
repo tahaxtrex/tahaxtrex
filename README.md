@@ -14,6 +14,9 @@ I believe in **learning by building**, and I use every opportunity — projects,
 🌍 **Based in:** Bremen, Germany  
 🔗 **Connect with me:**
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/your-link)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/tahaxtrex)
 [![Instagram](https://img.shields.io/badge/-@xtrex_yt-E4405F?logo=instagram&style=flat-square)](https://instagram.com/xtrex_yt)
