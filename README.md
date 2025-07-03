@@ -8,13 +8,14 @@
 
 I believe in **learning by building**, and I use every opportunity — projects, courses, or Internship experience — to sharpen both my technical and collaborative skills.
 
+![Profile views](https://komarev.com/ghpvc/?username=tahaxtrex)
 ---
 
 📫 **Reach me at:** hbirritaha@gmail.com  
 🌍 **Based in:** Bremen, Germany  
 🔗 **Connect with me:**
 
-![Profile views](https://komarev.com/ghpvc/?username=tahaxtrex)
+
 
 
 
