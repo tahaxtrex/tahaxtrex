@@ -36,12 +36,4 @@ I believe in **learning by building**, and I use every opportunity — projects,
 ---
 [![](https://visitcount.itsvg.in/api?id=tahaxtrex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 💡 Fun Facts
-
-- 📚 Self-taught Web developer
-- 🛠️ Loves building tools that automate boring stuff
-- 🕌 Believer in technology for community impact
-
 
