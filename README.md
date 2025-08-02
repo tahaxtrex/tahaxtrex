@@ -1,6 +1,6 @@
 # tahaxtrex, aka: Taha Hbirri
 
-**CS Student | Full-Stack Web Developer | AI Enthusiast | Learning by Building**
+**CS Student | Full-Stack Web Developer | AI, ML Enthusiast**
 
 ---
 
