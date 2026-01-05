@@ -4,7 +4,7 @@
 
 ---
 
-🎓 I'm a Computer Science student at Constructor University, currently expanding my skills in web development and real-world AI applications. I’m passionate about solving problems with code.
+🎓 I'm a Computer Science student at Constructor University, currently expanding my skills in cloud and real-world AI applications. I’m passionate about solving problems with code.
 
 I believe in **learning by building**, and I use every projects, courses, or Internship experience to improuve both my technical and collaborative skills.
 
